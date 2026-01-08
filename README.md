@@ -1,5 +1,7 @@
 # VeilChain
 
+CA: H7bRCULbPip3GcTsbg9iKNYZZXnm159FWkSnMs8Spump
+
 A privacy-focused blockchain implementation inspired by Zcash, featuring zero-knowledge proof concepts, advanced scripting, transaction mixing, and sophisticated privacy protocols for anonymous transactions.
 
 ## Features
